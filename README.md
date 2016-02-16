@@ -1,2 +1,2 @@
 # DynamicLines
-动态线条
+安卓Canvas动态画折线
